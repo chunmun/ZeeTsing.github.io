@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               Rachel Zhiqing
-tagline:             A Moderately Okay Data Science Blog
+title:               Rachel Z.Q. Zheng
+tagline:             An aspiring data scientist
 url:                 http://ZeeTsing.github.io
 paginate:            2
 baseurl:             ""
@@ -17,8 +17,8 @@ sass:
 
 # About/contact
 author:
-  name:              Rachel Zhiqing
-  url:               
+  name:              Rachel Zhiqing Zheng
+  url:               https://github.com/ZeeTsing
   email:             rachelzqzheng@gmail.com
 
 # Custom vars
@@ -33,6 +33,6 @@ gems:
 
 # Page List
 pages_list:       
-  About: '/about'
+  About me: '/about'
   Archive: '/archive'
   Feed: '/index.html'
